@@ -1,5 +1,7 @@
 # Appunti_Universita
-Appunti che mi sono stati utili durante il percorso universitario. 
+Raccolta di appunti universitari
 
-# PERSONAL WEBSITE in italiano:
+NOTA: Essendo principalmente appunti, potrebbero esserci delle informzioni errate nei vari documenti!
+
+# SITO WEB personale:
 https://luigi-v.github.io/personal_website/
