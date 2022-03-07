@@ -6,5 +6,5 @@ NOTA: Essendo principalmente appunti, potrebbero esserci delle informzioni errat
 # SITO WEB degli appunti:
 https://luigi-v.github.io/Appunti_Universita/
 
-# SITO WEB personale:
+# SITO WEB personale, se vuoi domandarmi qualcosa trovi i miei contatti:
 https://luigi-v.github.io/personal_website/
